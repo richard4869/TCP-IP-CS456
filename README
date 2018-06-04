@@ -1,0 +1,5 @@
+0."./server" "./client" to start the server/client (sorry I don't know how to write the script)
+1.connect + "port number" to connect to server
+2.port number will be provided by server once it started
+3.get + "file name" to read the file
+4.put + "file name" to create a file
